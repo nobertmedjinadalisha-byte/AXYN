@@ -1,61 +1,39 @@
-# Nome do Projeto
-
-> Descrição breve do sistema em uma frase.
-> Exemplo: Sistema para controle de empréstimo de livros da biblioteca escolar.
+AXYN 
+Axyn é um protótipo tecnológico que busca contribuir para a promoção da saúde e a melhoria da qualidade do ar.
 
 ---
 
 ## 📌 Informações Gerais
 
 - **Nome do Projeto:** AXYN
-- **Equipe:** 
+- **Equipe:** Heitor Henrique dos Santos, Samuel Henrique Gomes Almeida, Sarah Alves Rezende, André Costa Gomes, Davi Luca Gonçalves Almeida, Camila Viana Costa,     Medjina Dalisha Nobert
 - **Curso:** Técnico em Informática
-- **Instituição:** Nome da Escola
-- **Ano/Semestre:** 
-- **Professor Orientador:** 
-- **Cliente/Setor Solicitante:** (Ex: Secretaria, Biblioteca, Coordenação)
+- **Instituição:** Funec Riacho
+- **Ano/Semestre:** 2026
+- **Professor Orientador:** Maria Luiza Guimarães Alves
+- **Cliente/Setor Solicitante:** Industria 
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Descrever o objetivo principal do software.
-
-Exemplo:
-
-Desenvolver um sistema web para registrar e controlar o empréstimo de livros da biblioteca escolar, permitindo consultas rápidas, controle de devoluções e geração de relatórios.
+Desenvolver um protótipo tecnológico para monitoramento e filtragem da qualidade do ar, visando identificar gases poluentes e reter parte das partículas presentes na fumaça industrial.
 
 ---
-
 ## 👥 Público-Alvo
 
-Quem utilizará o sistema?
-
-Exemplo:
-
-- Funcionários da biblioteca
-- Professores
-- Alunos
+Indústrias e fábricas que utilizam combustíveis fósseis.
 
 ---
-
 ## 🧩 Problema a Ser Resolvido
 
-Descrever qual problema existe atualmente.
-
-Exemplo:
-
-Atualmente o controle de empréstimos é feito manualmente em cadernos, o que dificulta a organização e a geração de relatórios.
+A queima de combustíveis fósseis na atividade industrial libera gases poluentes e material particulado na atmosfera, prejudicando a qualidade do ar e a saúde de trabalhadores e da população do entorno. Muitas vezes não há monitoramento simples e acessível da emissão, nem uma etapa de filtragem que reduza parte dessas partículas antes da liberação da fumaça.
 
 ---
 
 ## 💡 Solução Proposta
 
-Descrever a solução que será desenvolvida.
-
-Exemplo:
-
-Um sistema web com cadastro de usuários, livros e controle automático de empréstimos e devoluções.
+O AXYN é um protótipo que combina monitoramento e filtragem: sensores identificam a presença de gases poluentes na fumaça, e um sistema de filtragem retém parte das partículas antes que sejam liberadas ao ambiente.
 
 ---
 
@@ -63,14 +41,11 @@ Um sistema web com cadastro de usuários, livros e controle automático de empr�
 
 ### Funcionalidades Principais
 
-- [ ] Cadastro de usuários
-- [ ] Login no sistema
-- [ ] Cadastro de itens (ex: livros, equipamentos, etc.)
-- [ ] Edição de dados
-- [ ] Exclusão de registros
-- [ ] Pesquisa/Busca
-- [ ] Relatórios
-- [ ] Controle de acesso por perfil
+[ ] Detecção de gases poluentes
+[ ] Exibição das leituras de qualidade do ar
+[ ] Alerta quando o nível de poluentes passar do limite
+[ ] Filtragem/retenção de parte das partículas da fumaça
+[ ] Registro/histórico das medições
 
 ---
 
