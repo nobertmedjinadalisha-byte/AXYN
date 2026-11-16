@@ -122,7 +122,7 @@ Protótipo físico:
 ## 📅 Cronograma do Projeto
 
 - 23/03/2026: Levantamento de requisitos e definição dos objetivos.
-- 08/07/2026: Planejamento e organização da estrutura do sistema.
+- 07/08/2026: Planejamento e organização da estrutura do sistema.
 - 12/10/2026 a 25/10/2026: Desenvolvimento das páginas do site e construção do protótipo físico.
 - 26/10/2026 a 20/11/2026: Realização de testes, correções e ajustes no protótipo e no site.
 - 26/11/2026 a 28/11/2026: Entrega e apresentação do projeto.
